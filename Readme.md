@@ -1,4 +1,4 @@
-# Bio-inspired Autonomous Exploration Policies with CNN-based Object Detection on Nano-drones
+# The Winning Deep Learning-based Framework for the IMAV'22 Nanocopter Drone Race
 
 ### Supplementary material
 Video:
